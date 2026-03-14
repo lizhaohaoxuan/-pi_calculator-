@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+    <name>Pi Calculator</name>
+    <coder>Wii Developer</coder>
+    <version>1.0</version>
+    <release_date>20250314</release_date>
+    <short_description>Calculate Pi on Wii</short_description>
+    <long_description>A graphical Pi calculator for Wii with SD card save/load functionality. Uses the Bailey-Borwein-Plouffe formula for calculation.
+
+Controls:
+- A Button: Save result to SD card
+- B Button: Load result from SD card
+- 1 Button: Recalculate Pi
+- Home Button: Exit</long_description>
+</app>
